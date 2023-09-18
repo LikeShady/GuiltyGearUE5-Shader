@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/Github/GuiltyGearUE5-Shader/GuiltyGearUE5Shader/Content/Meshes/Totsugeki/Materials/MPC_CustomLighting_Totsugeki.uasset",
+				"X:/Github/GuiltyGearUE5-Shader/GuiltyGearUE5Shader/Content/Meshes/RAM/Materials/MI_RAM_CustomLight.uasset",
+				"X:/Github/GuiltyGearUE5-Shader/GuiltyGearUE5Shader/Content/Meshes/RAM/Materials/MPC_CustomLighting_RAM.uasset",
+				"X:/Github/GuiltyGearUE5-Shader/GuiltyGearUE5Shader/Content/Meshes/S_RAM_Head.uasset",
 				"X:/Engine/Projects/GuiltyGearUE5Shader/Content/MAP.umap",
 				"X:/Engine/Projects/GuiltyGearUE5Shader/Content/Maps/MAP.umap",
 				"X:/Engine/Projects/GuiltyGearUE5Shader/Content/Materials/MM_GuiltyGearShader.uasset",
