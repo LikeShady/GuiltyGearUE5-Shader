@@ -10,3 +10,5 @@ The Material also support individual lighting per character, there is also and e
 All the models and assets are property of Arc System Works; They are in the project just for study purpose, i'll delete them immediately if they can cause any problem.  
 
 ![Shader](https://github.com/LikeShady/GuiltyGearUE5-Shader/assets/33573620/c635f700-126d-4688-b313-ed558100035f)
+
+![Result](https://github.com/LikeShady/GuiltyGearUE5-Shader/assets/33573620/4495f438-9326-4cb9-93b1-5deafc7336ac)
