@@ -1,5 +1,6 @@
 # GuiltyGearUE5-Shader
 Easy copy-paste of my Guilty Gear inspired shader for UE5.
+I used Unreal Engine 5.2.0
 
 Here you'll find a copy paste of the shader; It uses all default engine texture and function so it should work with no problem even on UE4.
 In the project you'll find the Master Material plus the Outline and Decal Master Materials as well as blueprints to shade the models when they are in shadow. (It's a concept to show how it works, feel free to change it how you need it).
